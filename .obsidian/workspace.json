@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "45d5c5004595c606",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f40786b4368d17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c36715c532572e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La_azucena_blanca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La_azucena_blanca"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d7118f88fcd9d4c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb2e33cc60b2d248",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "7a1309d08e1b95de",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\moicix\\notas\\obra-azucena-blanca",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "C:\\Python314\\python.exe",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: ◇  Ready (obra-azucena-blanca)"
+            }
+          },
+          {
+            "id": "f07f42b2eb4da1e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\moicix\\notas\\obra-azucena-blanca",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "C:\\Python314\\python.exe",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "febcb65fe492ffe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae7dd807eb840179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba375fdad9db8dac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c7e7743aad3e42f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "141773eb74900c58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb21b548889a754f",
+    "type": "split",
+    "children": [
+      {
+        "id": "144aef299a9e98a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b9499b26eac802f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "b35df9a6305b6391",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "8f9b9c8552887c7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2396dfa19ce9c572",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "90d07ff6045d6725",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "f07f42b2eb4da1e9",
+  "lastOpenFiles": [
+    "README.md",
+    "05_COMUNICACION_Y_DIFUSION/Plan_de_Difusion.md",
+    "04_DISEÑO_Y_RECURSOS_(SIN_PRESUPUESTO)/Props_(Utileria)/Lista_de_Props_y_Responsables.md",
+    "04_DISEÑO_Y_RECURSOS_(SIN_PRESUPUESTO)/Vestuario/Ideas_y_Recursos.md",
+    "03_ELENCO_Y_EQUIPO/Disponibilidad_del_Elenco.md",
+    "03_ELENCO_Y_EQUIPO/Lista_de_Actores_y_Roles.md",
+    "02_PRODUCCION/Plan_Tecnico/Iluminacion_y_Sonido.md",
+    "02_PRODUCCION/Plan_de_Ensayos/Notas_de_Ensayo.md",
+    "02_PRODUCCION/Plan_de_Ensayos/Plan_de_Sustitutos_(Understudies).md",
+    "02_PRODUCCION/Plan_de_Ensayos/Calendario_de_Ensayos_Detallado.md",
+    "01_GUIÓN_Y_ADAPTACION/Desglose_de_Personajes_y_Escenas.md",
+    "01_GUIÓN_Y_ADAPTACION/Guion_Maestro.md",
+    "00_PROYECTO_Y_PLANIFICACION/Contactos_Importantes.md",
+    "00_PROYECTO_Y_PLANIFICACION/Calendario_General.md",
+    "00_PROYECTO_Y_PLANIFICACION/Plan_General_del_Proyecto.md",
+    "04_DISEÑO_Y_RECURSOS_(SIN_PRESUPUESTO)/Inspiracion_Visual",
+    "04_DISEÑO_Y_RECURSOS_(SIN_PRESUPUESTO)/Props_(Utileria)",
+    "04_DISEÑO_Y_RECURSOS_(SIN_PRESUPUESTO)/Vestuario",
+    "03_ELENCO_Y_EQUIPO/Fichas_de_Personaje",
+    "02_PRODUCCION/Plan_Tecnico",
+    "02_PRODUCCION/Plan_de_Ensayos",
+    "01_GUIÓN_Y_ADAPTACION/Versiones_Anteriores",
+    "99_ARCHIVOS_FINALES_Y_FOTOS",
+    "05_COMUNICACION_Y_DIFUSION",
+    "04_DISEÑO_Y_RECURSOS_(SIN_PRESUPUESTO)",
+    "La_azucena_blanca.md",
+    "Bienvenido.md"
+  ]
+}
