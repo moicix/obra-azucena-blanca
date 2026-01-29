@@ -1,4 +1,4 @@
-# Proyecto de Obra de Pascua: "La Azucena Blanca"
+# Proyecto de Obra de Pascua 2026: "La Azucena Blanca"
 
 Este repositorio contiene la estructura de directorios y los documentos iniciales para la puesta en escena de la obra de teatro "La Azucena Blanca", adaptada para el grupo de jóvenes del Movimiento Familiar Cristiano para la temporada de Pascua.
 
