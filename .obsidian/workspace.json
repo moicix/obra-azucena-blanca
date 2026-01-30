@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "65f40786b4368d17",
+        "id": "22d072a5cae2d422",
         "type": "tabs",
         "children": [
           {
-            "id": "c36715c532572e1b",
+            "id": "019ad09f1c0c0f87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01_GUIÓN_Y_ADAPTACION/Escaleta.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -258,8 +258,19 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "2729cdc42e99a636",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -282,9 +293,10 @@
   "active": "f07f42b2eb4da1e9",
   "lastOpenFiles": [
     "01_GUIÓN_Y_ADAPTACION/Escaleta.md",
+    "01_GUIÓN_Y_ADAPTACION/Escaleta_Formato_Tabla.md",
+    "La_azucena_blanca.md",
     "README.md",
     "Bienvenido.md",
-    "La_azucena_blanca.md",
     "05_COMUNICACION_Y_DIFUSION/Plan_de_Difusion.md",
     "04_DISEÑO_Y_RECURSOS/Props_(Utileria)/Lista_de_Props_y_Responsables.md",
     "04_DISEÑO_Y_RECURSOS/Vestuario/Ideas_y_Recursos.md",

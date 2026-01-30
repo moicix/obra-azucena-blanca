@@ -1,4 +1,4 @@
-# Escaleta General: Adaptación de "La Azucena Blanca"
+# Escaleta General: Adaptación de "La Azucena Blanca" (Formato Tabla)
 
 ---
 
@@ -153,7 +153,3 @@
 | **EL JOVEN** | ¡Mantenla fresca! | |
 | (ACCIÓN) | El Joven sonríe a ambos y se aleja. | |
 | (ACCIÓN) | Iván y Vasili se quedan juntos, mirando la rosa y luego el camino. | Final de la obra. |
-</td>
-</tr>
-</tbody>
-</table>
